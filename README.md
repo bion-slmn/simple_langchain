@@ -1,5 +1,3 @@
-
-````
 # LangChain TypeScript Example
 
 This is a simple TypeScript project that uses LangChain and Google's Gemini (via `ChatGoogleGenerativeAI`) to simulate a customer care assistant.
