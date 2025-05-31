@@ -1,5 +1,5 @@
 
-````markdown
+````
 # LangChain TypeScript Example
 
 This is a simple TypeScript project that uses LangChain and Google's Gemini (via `ChatGoogleGenerativeAI`) to simulate a customer care assistant.
@@ -47,7 +47,7 @@ npx ts-node main.ts
 
 ```
 .
-├── main.ts         # Entry point
+├── app.ts         # Entry point
 ├── .env            # API key storage
 ├── package.json
 └── tsconfig.json   # TypeScript config
