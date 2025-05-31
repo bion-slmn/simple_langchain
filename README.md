@@ -15,8 +15,8 @@ This is a simple TypeScript project that uses LangChain and Google's Gemini (via
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/langchain-ts-example.git
-cd langchain-ts-example
+git clone https://github.com/bion-slmn/simple_langchain.git
+cd simple_langchain
 ````
 
 ### 2. Install dependencies
